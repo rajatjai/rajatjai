@@ -5,8 +5,6 @@
   - Data engineering,
   - Devops (IaC) on cloud (AWS/Azure)
   - NLP/Computer Vision/Deep learning (not into it anymore, but still keep track of new developments)
-- 📖  Currently learning:
-  - Blockchain
 - 📫 You can reach me at:
   - rajat.jain@tum.de
 
