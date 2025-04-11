@@ -4,7 +4,7 @@
   - System design,
   - Data engineering,
   - Devops (IaC) on cloud (AWS/Azure)
-  - NLP/Computer Vision/Deep learning
+  - NLP/Deep learning
 - 📫 You can reach me at:
   - rajat.jain@tum.de
 
